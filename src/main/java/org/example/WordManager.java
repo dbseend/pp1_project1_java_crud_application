@@ -31,6 +31,7 @@ public class WordManager {
             int menu = selectMenu();
 
             if (menu == 0) {
+                System.out.println("프로그램 종료! 다음에 만나요~");
                 break;
             }
             if (menu == 4) {
