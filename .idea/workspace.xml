@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27b5aa22-acf8-4f1c-9713-14d2dc33b11e" name="Changes" comment="&quot;종료하기&quot; 문구 추가">
+    <list default="true" id="27b5aa22-acf8-4f1c-9713-14d2dc33b11e" name="Changes" comment="단어목록 사진 추가">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/addWord" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/listWord" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -26,9 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2UpYUS7hv7s4w4UW1jPvU7X5eTs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,10 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/ysh/Desktop/2-2/실전프로젝트1/project1/pp1_project1_java_crud_application",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693638008231</updated>
-      <workItem from="1693638009499" duration="3162000" />
+      <workItem from="1693638009499" duration="4093000" />
+      <workItem from="1693642490672" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="단어추가 기능 구현">
       <option name="closed" value="true" />
@@ -85,7 +92,31 @@
       <option name="project" value="LOCAL" />
       <updated>1693640627230</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="scrrenshot 디렉토리 생성">
+      <option name="closed" value="true" />
+      <created>1693641640529</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693641640529</updated>
+    </task>
+    <task id="LOCAL-00005" summary="단어추가 사진 추가">
+      <option name="closed" value="true" />
+      <created>1693641774399</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693641774399</updated>
+    </task>
+    <task id="LOCAL-00006" summary="단어목록 사진 추가">
+      <option name="closed" value="true" />
+      <created>1693641850254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693641850254</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +126,9 @@
     <MESSAGE value="단어추가 기능 구현" />
     <MESSAGE value="&quot;모든 단어 보기&quot; 기능 구현" />
     <MESSAGE value="&quot;종료하기&quot; 문구 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;종료하기&quot; 문구 추가" />
+    <MESSAGE value="scrrenshot 디렉토리 생성" />
+    <MESSAGE value="단어추가 사진 추가" />
+    <MESSAGE value="단어목록 사진 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="단어목록 사진 추가" />
   </component>
 </project>
