@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27b5aa22-acf8-4f1c-9713-14d2dc33b11e" name="Changes" comment="단어목록 사진 추가">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ICRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pp1/project1/ICRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pp1/project1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pp1/project1/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pp1/project1/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pp1/project1/WordManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="27b5aa22-acf8-4f1c-9713-14d2dc33b11e" name="Changes" comment="패키지 이름 &quot;org.pp1.project1&quot; 변경" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +48,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "inlay.hints",
     "vue.rearranger.settings.migration": "true"
   }
@@ -71,7 +64,7 @@
       <workItem from="1693638009499" duration="4093000" />
       <workItem from="1693642490672" duration="46000" />
       <workItem from="1693830498753" duration="106000" />
-      <workItem from="1693897192814" duration="1466000" />
+      <workItem from="1693897192814" duration="1907000" />
     </task>
     <task id="LOCAL-00001" summary="단어추가 기능 구현">
       <option name="closed" value="true" />
@@ -121,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693641850254</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="패키지 이름 &quot;org.pp1.project1&quot; 변경">
+      <option name="closed" value="true" />
+      <created>1693898697595</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693898697595</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +135,7 @@
     <MESSAGE value="scrrenshot 디렉토리 생성" />
     <MESSAGE value="단어추가 사진 추가" />
     <MESSAGE value="단어목록 사진 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="단어목록 사진 추가" />
+    <MESSAGE value="패키지 이름 &quot;org.pp1.project1&quot; 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="패키지 이름 &quot;org.pp1.project1&quot; 변경" />
   </component>
 </project>
