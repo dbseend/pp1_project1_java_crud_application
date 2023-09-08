@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27b5aa22-acf8-4f1c-9713-14d2dc33b11e" name="Changes" comment="패키지 이름 &quot;org.pp1.project1&quot; 변경">
+    <list default="true" id="27b5aa22-acf8-4f1c-9713-14d2dc33b11e" name="Changes" comment="xml 파일 패키지 이름 변경">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pp1/project1/ICRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pp1/project1/ICRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/pp1/project1/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pp1/project1/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/pp1/project1/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pp1/project1/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,23 +40,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/shyoo/OneDrive/Desktop/HGU/2023-1-Summer/histudy",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "inlay.hints",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shyoo/OneDrive/Desktop/HGU/2023-1-Summer/histudy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +68,8 @@
       <workItem from="1693638009499" duration="4093000" />
       <workItem from="1693642490672" duration="46000" />
       <workItem from="1693830498753" duration="106000" />
-      <workItem from="1693897192814" duration="3178000" />
+      <workItem from="1693897192814" duration="4274000" />
+      <workItem from="1694152518622" duration="454000" />
     </task>
     <task id="LOCAL-00001" summary="단어추가 기능 구현">
       <option name="closed" value="true" />
@@ -134,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693899127122</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="xml 파일 패키지 이름 변경">
+      <option name="closed" value="true" />
+      <created>1693900440514</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693900440514</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +168,7 @@
     <MESSAGE value="단어추가 사진 추가" />
     <MESSAGE value="단어목록 사진 추가" />
     <MESSAGE value="패키지 이름 &quot;org.pp1.project1&quot; 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="패키지 이름 &quot;org.pp1.project1&quot; 변경" />
+    <MESSAGE value="xml 파일 패키지 이름 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml 파일 패키지 이름 변경" />
   </component>
 </project>
