@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27b5aa22-acf8-4f1c-9713-14d2dc33b11e" name="Changes" comment="파일 저장 기능 구현">
+    <list default="true" id="27b5aa22-acf8-4f1c-9713-14d2dc33b11e" name="Changes" comment="단어 검색 기능 구현">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/pp1/project1/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pp1/project1/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pp1/project1/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pp1/project1/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/shyoo/OneDrive/Desktop/HGU/2023-1-Summer/histudy&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/shyoo/OneDrive/Desktop/HGU/2-2/실전프로젝트1/hw/project1/pp1_project1_java_crud_application",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\shyoo\OneDrive\Desktop\HGU\2-2\실전프로젝트1\hw\project1\pp1_project1_java_crud_application" />
@@ -74,7 +74,9 @@
       <workItem from="1693830498753" duration="106000" />
       <workItem from="1693897192814" duration="4274000" />
       <workItem from="1694152518622" duration="2126000" />
-      <workItem from="1694154656417" duration="322000" />
+      <workItem from="1694154656417" duration="5237000" />
+      <workItem from="1694243514712" duration="25000" />
+      <workItem from="1694494129650" duration="1008000" />
     </task>
     <task id="LOCAL-00001" summary="단어추가 기능 구현">
       <option name="closed" value="true" />
@@ -188,7 +190,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694154755330</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="수준별 단어 보기 기능 구현">
+      <option name="closed" value="true" />
+      <created>1694155025337</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694155025337</updated>
+    </task>
+    <task id="LOCAL-00016" summary="단어 검색 기능 구현">
+      <option name="closed" value="true" />
+      <created>1694155170799</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694155170799</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +236,8 @@
     <MESSAGE value="단어 삭제 기능 구현" />
     <MESSAGE value="파일 로드 기능 구현" />
     <MESSAGE value="파일 저장 기능 구현" />
-    <option name="LAST_COMMIT_MESSAGE" value="파일 저장 기능 구현" />
+    <MESSAGE value="수준별 단어 보기 기능 구현" />
+    <MESSAGE value="단어 검색 기능 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="단어 검색 기능 구현" />
   </component>
 </project>

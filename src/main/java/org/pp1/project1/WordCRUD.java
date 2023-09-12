@@ -9,6 +9,7 @@ public class WordCRUD implements ICRUD {
     Scanner s;
     final String fname = "Dictionary.txt";
 
+
     WordCRUD(Scanner s) {
         list = new ArrayList<>();
         this.s = s;
