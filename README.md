@@ -6,7 +6,7 @@
 
 ## 2. [수준별 단어 보기]
 <img width="250" height="280" alt="수준별검색1" src="https://github.com/dbseend/pp1_project1_java_crud_application/assets/141024382/c38584b1-30d7-4424-94f3-99186ed68765">
-<img width="250" height="280"" alt="수준별검색2" src="https://github.com/dbseend/pp1_project1_java_crud_application/assets/141024382/7cbb89a3-94b7-4bea-9d9e-75d03d115896">
+<img width="250" height="280" alt="수준별검색2" src="https://github.com/dbseend/pp1_project1_java_crud_application/assets/141024382/7cbb89a3-94b7-4bea-9d9e-75d03d115896">
 
 ## 3. [단어 검색]
 <img width="250" height="280" alt="단어검색1" src="https://github.com/dbseend/pp1_project1_java_crud_application/assets/141024382/07aa8ba9-2c46-4d81-a89b-89ea1c7b3b57">
